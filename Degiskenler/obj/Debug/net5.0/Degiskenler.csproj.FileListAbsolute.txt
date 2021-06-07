@@ -1,0 +1,16 @@
+D:\C# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.csproj.AssemblyReference.cache
+D:\C# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.AssemblyInfoInputs.cache
+D:\C# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.AssemblyInfo.cs
+D:\C# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.csproj.CoreCompileInputs.cache
+D:\C# 101\Degiskenler\bin\Debug\net5.0\Degiskenler.exe
+D:\C# 101\Degiskenler\bin\Debug\net5.0\Degiskenler.deps.json
+D:\C# 101\Degiskenler\bin\Debug\net5.0\Degiskenler.runtimeconfig.json
+D:\C# 101\Degiskenler\bin\Debug\net5.0\Degiskenler.runtimeconfig.dev.json
+D:\C# 101\Degiskenler\bin\Debug\net5.0\Degiskenler.dll
+D:\C# 101\Degiskenler\bin\Debug\net5.0\ref\Degiskenler.dll
+D:\C# 101\Degiskenler\bin\Debug\net5.0\Degiskenler.pdb
+D:\C# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.dll
+D:\C# 101\Degiskenler\obj\Debug\net5.0\ref\Degiskenler.dll
+D:\C# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.pdb
+D:\C# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.genruntimeconfig.cache
