@@ -1,0 +1,16 @@
+D:\C# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.csproj.AssemblyReference.cache
+D:\C# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.AssemblyInfoInputs.cache
+D:\C# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.AssemblyInfo.cs
+D:\C# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.csproj.CoreCompileInputs.cache
+D:\C# 101\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.exe
+D:\C# 101\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.deps.json
+D:\C# 101\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.runtimeconfig.json
+D:\C# 101\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.runtimeconfig.dev.json
+D:\C# 101\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.dll
+D:\C# 101\TipDonusumleri\bin\Debug\net5.0\ref\TipDonusumleri.dll
+D:\C# 101\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.pdb
+D:\C# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.dll
+D:\C# 101\TipDonusumleri\obj\Debug\net5.0\ref\TipDonusumleri.dll
+D:\C# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.pdb
+D:\C# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.genruntimeconfig.cache
