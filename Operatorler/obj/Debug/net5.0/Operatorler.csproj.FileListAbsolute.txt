@@ -1,0 +1,16 @@
+D:\C# 101\Operatorler\bin\Debug\net5.0\Operatorler.exe
+D:\C# 101\Operatorler\bin\Debug\net5.0\Operatorler.deps.json
+D:\C# 101\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.json
+D:\C# 101\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.dev.json
+D:\C# 101\Operatorler\bin\Debug\net5.0\Operatorler.dll
+D:\C# 101\Operatorler\bin\Debug\net5.0\ref\Operatorler.dll
+D:\C# 101\Operatorler\bin\Debug\net5.0\Operatorler.pdb
+D:\C# 101\Operatorler\obj\Debug\net5.0\Operatorler.csproj.AssemblyReference.cache
+D:\C# 101\Operatorler\obj\Debug\net5.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfoInputs.cache
+D:\C# 101\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfo.cs
+D:\C# 101\Operatorler\obj\Debug\net5.0\Operatorler.csproj.CoreCompileInputs.cache
+D:\C# 101\Operatorler\obj\Debug\net5.0\Operatorler.dll
+D:\C# 101\Operatorler\obj\Debug\net5.0\ref\Operatorler.dll
+D:\C# 101\Operatorler\obj\Debug\net5.0\Operatorler.pdb
+D:\C# 101\Operatorler\obj\Debug\net5.0\Operatorler.genruntimeconfig.cache
