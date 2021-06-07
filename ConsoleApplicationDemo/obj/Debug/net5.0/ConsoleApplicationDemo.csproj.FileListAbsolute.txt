@@ -1,0 +1,32 @@
+D:\ConsoleApplicationDemo\bin\Debug\net5.0\ConsoleApplicationDemo.exe
+D:\ConsoleApplicationDemo\bin\Debug\net5.0\ConsoleApplicationDemo.deps.json
+D:\ConsoleApplicationDemo\bin\Debug\net5.0\ConsoleApplicationDemo.runtimeconfig.json
+D:\ConsoleApplicationDemo\bin\Debug\net5.0\ConsoleApplicationDemo.runtimeconfig.dev.json
+D:\ConsoleApplicationDemo\bin\Debug\net5.0\ConsoleApplicationDemo.dll
+D:\ConsoleApplicationDemo\bin\Debug\net5.0\ref\ConsoleApplicationDemo.dll
+D:\ConsoleApplicationDemo\bin\Debug\net5.0\ConsoleApplicationDemo.pdb
+D:\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.csproj.AssemblyReference.cache
+D:\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.AssemblyInfoInputs.cache
+D:\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.AssemblyInfo.cs
+D:\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.csproj.CoreCompileInputs.cache
+D:\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.dll
+D:\ConsoleApplicationDemo\obj\Debug\net5.0\ref\ConsoleApplicationDemo.dll
+D:\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.pdb
+D:\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.genruntimeconfig.cache
+D:\C# 101\ConsoleApplicationDemo\bin\Debug\net5.0\ConsoleApplicationDemo.exe
+D:\C# 101\ConsoleApplicationDemo\bin\Debug\net5.0\ConsoleApplicationDemo.deps.json
+D:\C# 101\ConsoleApplicationDemo\bin\Debug\net5.0\ConsoleApplicationDemo.runtimeconfig.json
+D:\C# 101\ConsoleApplicationDemo\bin\Debug\net5.0\ConsoleApplicationDemo.runtimeconfig.dev.json
+D:\C# 101\ConsoleApplicationDemo\bin\Debug\net5.0\ConsoleApplicationDemo.dll
+D:\C# 101\ConsoleApplicationDemo\bin\Debug\net5.0\ref\ConsoleApplicationDemo.dll
+D:\C# 101\ConsoleApplicationDemo\bin\Debug\net5.0\ConsoleApplicationDemo.pdb
+D:\C# 101\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.csproj.AssemblyReference.cache
+D:\C# 101\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.AssemblyInfoInputs.cache
+D:\C# 101\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.AssemblyInfo.cs
+D:\C# 101\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.csproj.CoreCompileInputs.cache
+D:\C# 101\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.dll
+D:\C# 101\ConsoleApplicationDemo\obj\Debug\net5.0\ref\ConsoleApplicationDemo.dll
+D:\C# 101\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.pdb
+D:\C# 101\ConsoleApplicationDemo\obj\Debug\net5.0\ConsoleApplicationDemo.genruntimeconfig.cache
