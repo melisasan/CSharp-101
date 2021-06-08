@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/bin/Debug/net5.0/ExceptionHandling.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "console": "integratedTerminal",
+            "console": "internalConsole",
             "stopAtEntry": false
         },
         {

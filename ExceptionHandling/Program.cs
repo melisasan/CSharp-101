@@ -9,7 +9,7 @@ namespace ExceptionHandling
             //Integera çevirelemeyen bir değer girildiğinde hata fırlatır
             try
             {
-            Console.WriteLine("1 ile 100 arasında bir sayı girin");
+            Console.WriteLine("1 ile 100 arasında bir sayı girin.");
             int num = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Girilen sayı = " + num);
             }
@@ -20,7 +20,7 @@ namespace ExceptionHandling
             //Her durumda çalışacak olan blok
             finally
             {
-                Console.WriteLine("İşlem tamamlandı");
+                Console.WriteLine("İşlem tamamlandı.");
             }
            
            //Argument Null Exception
