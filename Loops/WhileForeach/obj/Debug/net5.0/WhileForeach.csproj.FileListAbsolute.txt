@@ -1,0 +1,16 @@
+D:\C# 101\Loops\WhileForeach\bin\Debug\net5.0\WhileForeach.exe
+D:\C# 101\Loops\WhileForeach\bin\Debug\net5.0\WhileForeach.deps.json
+D:\C# 101\Loops\WhileForeach\bin\Debug\net5.0\WhileForeach.runtimeconfig.json
+D:\C# 101\Loops\WhileForeach\bin\Debug\net5.0\WhileForeach.runtimeconfig.dev.json
+D:\C# 101\Loops\WhileForeach\bin\Debug\net5.0\WhileForeach.dll
+D:\C# 101\Loops\WhileForeach\bin\Debug\net5.0\ref\WhileForeach.dll
+D:\C# 101\Loops\WhileForeach\bin\Debug\net5.0\WhileForeach.pdb
+D:\C# 101\Loops\WhileForeach\obj\Debug\net5.0\WhileForeach.csproj.AssemblyReference.cache
+D:\C# 101\Loops\WhileForeach\obj\Debug\net5.0\WhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Loops\WhileForeach\obj\Debug\net5.0\WhileForeach.AssemblyInfoInputs.cache
+D:\C# 101\Loops\WhileForeach\obj\Debug\net5.0\WhileForeach.AssemblyInfo.cs
+D:\C# 101\Loops\WhileForeach\obj\Debug\net5.0\WhileForeach.csproj.CoreCompileInputs.cache
+D:\C# 101\Loops\WhileForeach\obj\Debug\net5.0\WhileForeach.dll
+D:\C# 101\Loops\WhileForeach\obj\Debug\net5.0\ref\WhileForeach.dll
+D:\C# 101\Loops\WhileForeach\obj\Debug\net5.0\WhileForeach.pdb
+D:\C# 101\Loops\WhileForeach\obj\Debug\net5.0\WhileForeach.genruntimeconfig.cache

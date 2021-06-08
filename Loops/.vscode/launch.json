@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/ForLoop/bin/Debug/net5.0/ForLoop.dll",
             "args": [],
             "cwd": "${workspaceFolder}/ForLoop",
-            "console": "integratedTerminal",
+            "console": "internalConsole",
             "stopAtEntry": false
         },
         {
