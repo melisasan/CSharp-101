@@ -1,0 +1,16 @@
+D:\C# 101\Loops\ForLoop\bin\Debug\net5.0\ForLoop.exe
+D:\C# 101\Loops\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+D:\C# 101\Loops\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+D:\C# 101\Loops\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+D:\C# 101\Loops\ForLoop\bin\Debug\net5.0\ForLoop.dll
+D:\C# 101\Loops\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+D:\C# 101\Loops\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+D:\C# 101\Loops\ForLoop\obj\Debug\net5.0\ForLoop.csproj.AssemblyReference.cache
+D:\C# 101\Loops\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Loops\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+D:\C# 101\Loops\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+D:\C# 101\Loops\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+D:\C# 101\Loops\ForLoop\obj\Debug\net5.0\ForLoop.dll
+D:\C# 101\Loops\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+D:\C# 101\Loops\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+D:\C# 101\Loops\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache
