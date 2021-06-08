@@ -1,0 +1,16 @@
+D:\C# 101\IfElse\bin\Debug\net5.0\IfElse.exe
+D:\C# 101\IfElse\bin\Debug\net5.0\IfElse.deps.json
+D:\C# 101\IfElse\bin\Debug\net5.0\IfElse.runtimeconfig.json
+D:\C# 101\IfElse\bin\Debug\net5.0\IfElse.runtimeconfig.dev.json
+D:\C# 101\IfElse\bin\Debug\net5.0\IfElse.dll
+D:\C# 101\IfElse\bin\Debug\net5.0\ref\IfElse.dll
+D:\C# 101\IfElse\bin\Debug\net5.0\IfElse.pdb
+D:\C# 101\IfElse\obj\Debug\net5.0\IfElse.csproj.AssemblyReference.cache
+D:\C# 101\IfElse\obj\Debug\net5.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\IfElse\obj\Debug\net5.0\IfElse.AssemblyInfoInputs.cache
+D:\C# 101\IfElse\obj\Debug\net5.0\IfElse.AssemblyInfo.cs
+D:\C# 101\IfElse\obj\Debug\net5.0\IfElse.csproj.CoreCompileInputs.cache
+D:\C# 101\IfElse\obj\Debug\net5.0\IfElse.dll
+D:\C# 101\IfElse\obj\Debug\net5.0\ref\IfElse.dll
+D:\C# 101\IfElse\obj\Debug\net5.0\IfElse.pdb
+D:\C# 101\IfElse\obj\Debug\net5.0\IfElse.genruntimeconfig.cache
