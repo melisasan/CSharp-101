@@ -1,0 +1,16 @@
+D:\C# 101\Class\EncapsulationandProperty\bin\Debug\net5.0\EncapsulationandProperty.exe
+D:\C# 101\Class\EncapsulationandProperty\bin\Debug\net5.0\EncapsulationandProperty.deps.json
+D:\C# 101\Class\EncapsulationandProperty\bin\Debug\net5.0\EncapsulationandProperty.runtimeconfig.json
+D:\C# 101\Class\EncapsulationandProperty\bin\Debug\net5.0\EncapsulationandProperty.runtimeconfig.dev.json
+D:\C# 101\Class\EncapsulationandProperty\bin\Debug\net5.0\EncapsulationandProperty.dll
+D:\C# 101\Class\EncapsulationandProperty\bin\Debug\net5.0\ref\EncapsulationandProperty.dll
+D:\C# 101\Class\EncapsulationandProperty\bin\Debug\net5.0\EncapsulationandProperty.pdb
+D:\C# 101\Class\EncapsulationandProperty\obj\Debug\net5.0\EncapsulationandProperty.csproj.AssemblyReference.cache
+D:\C# 101\Class\EncapsulationandProperty\obj\Debug\net5.0\EncapsulationandProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Class\EncapsulationandProperty\obj\Debug\net5.0\EncapsulationandProperty.AssemblyInfoInputs.cache
+D:\C# 101\Class\EncapsulationandProperty\obj\Debug\net5.0\EncapsulationandProperty.AssemblyInfo.cs
+D:\C# 101\Class\EncapsulationandProperty\obj\Debug\net5.0\EncapsulationandProperty.csproj.CoreCompileInputs.cache
+D:\C# 101\Class\EncapsulationandProperty\obj\Debug\net5.0\EncapsulationandProperty.dll
+D:\C# 101\Class\EncapsulationandProperty\obj\Debug\net5.0\ref\EncapsulationandProperty.dll
+D:\C# 101\Class\EncapsulationandProperty\obj\Debug\net5.0\EncapsulationandProperty.pdb
+D:\C# 101\Class\EncapsulationandProperty\obj\Debug\net5.0\EncapsulationandProperty.genruntimeconfig.cache
