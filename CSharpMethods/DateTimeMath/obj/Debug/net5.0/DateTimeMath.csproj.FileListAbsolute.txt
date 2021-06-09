@@ -1,0 +1,16 @@
+D:\C# 101\CSharpMethods\DateTimeMath\bin\Debug\net5.0\DateTimeMath.exe
+D:\C# 101\CSharpMethods\DateTimeMath\bin\Debug\net5.0\DateTimeMath.deps.json
+D:\C# 101\CSharpMethods\DateTimeMath\bin\Debug\net5.0\DateTimeMath.runtimeconfig.json
+D:\C# 101\CSharpMethods\DateTimeMath\bin\Debug\net5.0\DateTimeMath.runtimeconfig.dev.json
+D:\C# 101\CSharpMethods\DateTimeMath\bin\Debug\net5.0\DateTimeMath.dll
+D:\C# 101\CSharpMethods\DateTimeMath\bin\Debug\net5.0\ref\DateTimeMath.dll
+D:\C# 101\CSharpMethods\DateTimeMath\bin\Debug\net5.0\DateTimeMath.pdb
+D:\C# 101\CSharpMethods\DateTimeMath\obj\Debug\net5.0\DateTimeMath.csproj.AssemblyReference.cache
+D:\C# 101\CSharpMethods\DateTimeMath\obj\Debug\net5.0\DateTimeMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\CSharpMethods\DateTimeMath\obj\Debug\net5.0\DateTimeMath.AssemblyInfoInputs.cache
+D:\C# 101\CSharpMethods\DateTimeMath\obj\Debug\net5.0\DateTimeMath.AssemblyInfo.cs
+D:\C# 101\CSharpMethods\DateTimeMath\obj\Debug\net5.0\DateTimeMath.csproj.CoreCompileInputs.cache
+D:\C# 101\CSharpMethods\DateTimeMath\obj\Debug\net5.0\DateTimeMath.dll
+D:\C# 101\CSharpMethods\DateTimeMath\obj\Debug\net5.0\ref\DateTimeMath.dll
+D:\C# 101\CSharpMethods\DateTimeMath\obj\Debug\net5.0\DateTimeMath.pdb
+D:\C# 101\CSharpMethods\DateTimeMath\obj\Debug\net5.0\DateTimeMath.genruntimeconfig.cache
