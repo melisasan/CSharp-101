@@ -1,0 +1,16 @@
+D:\C# 101\Class\ClassDefinition\bin\Debug\net5.0\ClassDefinition.exe
+D:\C# 101\Class\ClassDefinition\bin\Debug\net5.0\ClassDefinition.deps.json
+D:\C# 101\Class\ClassDefinition\bin\Debug\net5.0\ClassDefinition.runtimeconfig.json
+D:\C# 101\Class\ClassDefinition\bin\Debug\net5.0\ClassDefinition.runtimeconfig.dev.json
+D:\C# 101\Class\ClassDefinition\bin\Debug\net5.0\ClassDefinition.dll
+D:\C# 101\Class\ClassDefinition\bin\Debug\net5.0\ref\ClassDefinition.dll
+D:\C# 101\Class\ClassDefinition\bin\Debug\net5.0\ClassDefinition.pdb
+D:\C# 101\Class\ClassDefinition\obj\Debug\net5.0\ClassDefinition.csproj.AssemblyReference.cache
+D:\C# 101\Class\ClassDefinition\obj\Debug\net5.0\ClassDefinition.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Class\ClassDefinition\obj\Debug\net5.0\ClassDefinition.AssemblyInfoInputs.cache
+D:\C# 101\Class\ClassDefinition\obj\Debug\net5.0\ClassDefinition.AssemblyInfo.cs
+D:\C# 101\Class\ClassDefinition\obj\Debug\net5.0\ClassDefinition.csproj.CoreCompileInputs.cache
+D:\C# 101\Class\ClassDefinition\obj\Debug\net5.0\ClassDefinition.dll
+D:\C# 101\Class\ClassDefinition\obj\Debug\net5.0\ref\ClassDefinition.dll
+D:\C# 101\Class\ClassDefinition\obj\Debug\net5.0\ClassDefinition.pdb
+D:\C# 101\Class\ClassDefinition\obj\Debug\net5.0\ClassDefinition.genruntimeconfig.cache
