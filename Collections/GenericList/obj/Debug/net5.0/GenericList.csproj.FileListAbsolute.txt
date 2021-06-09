@@ -1,0 +1,16 @@
+D:\C# 101\Collections\GenericList\bin\Debug\net5.0\GenericList.exe
+D:\C# 101\Collections\GenericList\bin\Debug\net5.0\GenericList.deps.json
+D:\C# 101\Collections\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.json
+D:\C# 101\Collections\GenericList\bin\Debug\net5.0\GenericList.runtimeconfig.dev.json
+D:\C# 101\Collections\GenericList\bin\Debug\net5.0\GenericList.dll
+D:\C# 101\Collections\GenericList\bin\Debug\net5.0\ref\GenericList.dll
+D:\C# 101\Collections\GenericList\bin\Debug\net5.0\GenericList.pdb
+D:\C# 101\Collections\GenericList\obj\Debug\net5.0\GenericList.csproj.AssemblyReference.cache
+D:\C# 101\Collections\GenericList\obj\Debug\net5.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Collections\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfoInputs.cache
+D:\C# 101\Collections\GenericList\obj\Debug\net5.0\GenericList.AssemblyInfo.cs
+D:\C# 101\Collections\GenericList\obj\Debug\net5.0\GenericList.csproj.CoreCompileInputs.cache
+D:\C# 101\Collections\GenericList\obj\Debug\net5.0\GenericList.dll
+D:\C# 101\Collections\GenericList\obj\Debug\net5.0\ref\GenericList.dll
+D:\C# 101\Collections\GenericList\obj\Debug\net5.0\GenericList.pdb
+D:\C# 101\Collections\GenericList\obj\Debug\net5.0\GenericList.genruntimeconfig.cache
