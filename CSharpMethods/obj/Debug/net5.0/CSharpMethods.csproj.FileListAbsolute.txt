@@ -1,0 +1,16 @@
+D:\C# 101\CSharpMethods\bin\Debug\net5.0\CSharpMethods.exe
+D:\C# 101\CSharpMethods\bin\Debug\net5.0\CSharpMethods.deps.json
+D:\C# 101\CSharpMethods\bin\Debug\net5.0\CSharpMethods.runtimeconfig.json
+D:\C# 101\CSharpMethods\bin\Debug\net5.0\CSharpMethods.runtimeconfig.dev.json
+D:\C# 101\CSharpMethods\bin\Debug\net5.0\CSharpMethods.dll
+D:\C# 101\CSharpMethods\bin\Debug\net5.0\ref\CSharpMethods.dll
+D:\C# 101\CSharpMethods\bin\Debug\net5.0\CSharpMethods.pdb
+D:\C# 101\CSharpMethods\obj\Debug\net5.0\CSharpMethods.csproj.AssemblyReference.cache
+D:\C# 101\CSharpMethods\obj\Debug\net5.0\CSharpMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\CSharpMethods\obj\Debug\net5.0\CSharpMethods.AssemblyInfoInputs.cache
+D:\C# 101\CSharpMethods\obj\Debug\net5.0\CSharpMethods.AssemblyInfo.cs
+D:\C# 101\CSharpMethods\obj\Debug\net5.0\CSharpMethods.csproj.CoreCompileInputs.cache
+D:\C# 101\CSharpMethods\obj\Debug\net5.0\CSharpMethods.dll
+D:\C# 101\CSharpMethods\obj\Debug\net5.0\ref\CSharpMethods.dll
+D:\C# 101\CSharpMethods\obj\Debug\net5.0\CSharpMethods.pdb
+D:\C# 101\CSharpMethods\obj\Debug\net5.0\CSharpMethods.genruntimeconfig.cache
