@@ -1,0 +1,16 @@
+D:\C# 101\Collections\Arraylist\bin\Debug\net5.0\Arraylist.exe
+D:\C# 101\Collections\Arraylist\bin\Debug\net5.0\Arraylist.deps.json
+D:\C# 101\Collections\Arraylist\bin\Debug\net5.0\Arraylist.runtimeconfig.json
+D:\C# 101\Collections\Arraylist\bin\Debug\net5.0\Arraylist.runtimeconfig.dev.json
+D:\C# 101\Collections\Arraylist\bin\Debug\net5.0\Arraylist.dll
+D:\C# 101\Collections\Arraylist\bin\Debug\net5.0\ref\Arraylist.dll
+D:\C# 101\Collections\Arraylist\bin\Debug\net5.0\Arraylist.pdb
+D:\C# 101\Collections\Arraylist\obj\Debug\net5.0\Arraylist.csproj.AssemblyReference.cache
+D:\C# 101\Collections\Arraylist\obj\Debug\net5.0\Arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Collections\Arraylist\obj\Debug\net5.0\Arraylist.AssemblyInfoInputs.cache
+D:\C# 101\Collections\Arraylist\obj\Debug\net5.0\Arraylist.AssemblyInfo.cs
+D:\C# 101\Collections\Arraylist\obj\Debug\net5.0\Arraylist.csproj.CoreCompileInputs.cache
+D:\C# 101\Collections\Arraylist\obj\Debug\net5.0\Arraylist.dll
+D:\C# 101\Collections\Arraylist\obj\Debug\net5.0\ref\Arraylist.dll
+D:\C# 101\Collections\Arraylist\obj\Debug\net5.0\Arraylist.pdb
+D:\C# 101\Collections\Arraylist\obj\Debug\net5.0\Arraylist.genruntimeconfig.cache
