@@ -1,0 +1,16 @@
+D:\C# 101\Arrays\ArrayMethods\bin\Debug\net5.0\ArrayMethods.exe
+D:\C# 101\Arrays\ArrayMethods\bin\Debug\net5.0\ArrayMethods.deps.json
+D:\C# 101\Arrays\ArrayMethods\bin\Debug\net5.0\ArrayMethods.runtimeconfig.json
+D:\C# 101\Arrays\ArrayMethods\bin\Debug\net5.0\ArrayMethods.runtimeconfig.dev.json
+D:\C# 101\Arrays\ArrayMethods\bin\Debug\net5.0\ArrayMethods.dll
+D:\C# 101\Arrays\ArrayMethods\bin\Debug\net5.0\ref\ArrayMethods.dll
+D:\C# 101\Arrays\ArrayMethods\bin\Debug\net5.0\ArrayMethods.pdb
+D:\C# 101\Arrays\ArrayMethods\obj\Debug\net5.0\ArrayMethods.csproj.AssemblyReference.cache
+D:\C# 101\Arrays\ArrayMethods\obj\Debug\net5.0\ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Arrays\ArrayMethods\obj\Debug\net5.0\ArrayMethods.AssemblyInfoInputs.cache
+D:\C# 101\Arrays\ArrayMethods\obj\Debug\net5.0\ArrayMethods.AssemblyInfo.cs
+D:\C# 101\Arrays\ArrayMethods\obj\Debug\net5.0\ArrayMethods.csproj.CoreCompileInputs.cache
+D:\C# 101\Arrays\ArrayMethods\obj\Debug\net5.0\ArrayMethods.dll
+D:\C# 101\Arrays\ArrayMethods\obj\Debug\net5.0\ref\ArrayMethods.dll
+D:\C# 101\Arrays\ArrayMethods\obj\Debug\net5.0\ArrayMethods.pdb
+D:\C# 101\Arrays\ArrayMethods\obj\Debug\net5.0\ArrayMethods.genruntimeconfig.cache
