@@ -1,0 +1,16 @@
+D:\C# 101\Odev1\Exercise3\bin\Debug\net5.0\Exercise3.exe
+D:\C# 101\Odev1\Exercise3\bin\Debug\net5.0\Exercise3.deps.json
+D:\C# 101\Odev1\Exercise3\bin\Debug\net5.0\Exercise3.runtimeconfig.json
+D:\C# 101\Odev1\Exercise3\bin\Debug\net5.0\Exercise3.runtimeconfig.dev.json
+D:\C# 101\Odev1\Exercise3\bin\Debug\net5.0\Exercise3.dll
+D:\C# 101\Odev1\Exercise3\bin\Debug\net5.0\ref\Exercise3.dll
+D:\C# 101\Odev1\Exercise3\bin\Debug\net5.0\Exercise3.pdb
+D:\C# 101\Odev1\Exercise3\obj\Debug\net5.0\Exercise3.csproj.AssemblyReference.cache
+D:\C# 101\Odev1\Exercise3\obj\Debug\net5.0\Exercise3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Odev1\Exercise3\obj\Debug\net5.0\Exercise3.AssemblyInfoInputs.cache
+D:\C# 101\Odev1\Exercise3\obj\Debug\net5.0\Exercise3.AssemblyInfo.cs
+D:\C# 101\Odev1\Exercise3\obj\Debug\net5.0\Exercise3.csproj.CoreCompileInputs.cache
+D:\C# 101\Odev1\Exercise3\obj\Debug\net5.0\Exercise3.dll
+D:\C# 101\Odev1\Exercise3\obj\Debug\net5.0\ref\Exercise3.dll
+D:\C# 101\Odev1\Exercise3\obj\Debug\net5.0\Exercise3.pdb
+D:\C# 101\Odev1\Exercise3\obj\Debug\net5.0\Exercise3.genruntimeconfig.cache
