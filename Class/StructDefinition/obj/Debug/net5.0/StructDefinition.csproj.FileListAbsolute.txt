@@ -1,0 +1,16 @@
+D:\C# 101\Class\StructDefinition\obj\Debug\net5.0\StructDefinition.csproj.AssemblyReference.cache
+D:\C# 101\Class\StructDefinition\obj\Debug\net5.0\StructDefinition.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Class\StructDefinition\obj\Debug\net5.0\StructDefinition.AssemblyInfoInputs.cache
+D:\C# 101\Class\StructDefinition\obj\Debug\net5.0\StructDefinition.AssemblyInfo.cs
+D:\C# 101\Class\StructDefinition\obj\Debug\net5.0\StructDefinition.csproj.CoreCompileInputs.cache
+D:\C# 101\Class\StructDefinition\bin\Debug\net5.0\StructDefinition.exe
+D:\C# 101\Class\StructDefinition\bin\Debug\net5.0\StructDefinition.deps.json
+D:\C# 101\Class\StructDefinition\bin\Debug\net5.0\StructDefinition.runtimeconfig.json
+D:\C# 101\Class\StructDefinition\bin\Debug\net5.0\StructDefinition.runtimeconfig.dev.json
+D:\C# 101\Class\StructDefinition\bin\Debug\net5.0\StructDefinition.dll
+D:\C# 101\Class\StructDefinition\bin\Debug\net5.0\ref\StructDefinition.dll
+D:\C# 101\Class\StructDefinition\bin\Debug\net5.0\StructDefinition.pdb
+D:\C# 101\Class\StructDefinition\obj\Debug\net5.0\StructDefinition.dll
+D:\C# 101\Class\StructDefinition\obj\Debug\net5.0\ref\StructDefinition.dll
+D:\C# 101\Class\StructDefinition\obj\Debug\net5.0\StructDefinition.pdb
+D:\C# 101\Class\StructDefinition\obj\Debug\net5.0\StructDefinition.genruntimeconfig.cache
