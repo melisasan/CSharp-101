@@ -46,7 +46,7 @@ namespace StructDefinition
          public int kisa;
         public int uzun;
 
-        // structta olmaz!
+        // structta bu kullanom olmaz!
         // public Dikdortgen()
         // {
         //    kisa= 5;
