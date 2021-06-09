@@ -1,0 +1,16 @@
+D:\C# 101\Class\EnumDefinition\bin\Debug\net5.0\EnumDefinition.exe
+D:\C# 101\Class\EnumDefinition\bin\Debug\net5.0\EnumDefinition.deps.json
+D:\C# 101\Class\EnumDefinition\bin\Debug\net5.0\EnumDefinition.runtimeconfig.json
+D:\C# 101\Class\EnumDefinition\bin\Debug\net5.0\EnumDefinition.runtimeconfig.dev.json
+D:\C# 101\Class\EnumDefinition\bin\Debug\net5.0\EnumDefinition.dll
+D:\C# 101\Class\EnumDefinition\bin\Debug\net5.0\ref\EnumDefinition.dll
+D:\C# 101\Class\EnumDefinition\bin\Debug\net5.0\EnumDefinition.pdb
+D:\C# 101\Class\EnumDefinition\obj\Debug\net5.0\EnumDefinition.csproj.AssemblyReference.cache
+D:\C# 101\Class\EnumDefinition\obj\Debug\net5.0\EnumDefinition.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Class\EnumDefinition\obj\Debug\net5.0\EnumDefinition.AssemblyInfoInputs.cache
+D:\C# 101\Class\EnumDefinition\obj\Debug\net5.0\EnumDefinition.AssemblyInfo.cs
+D:\C# 101\Class\EnumDefinition\obj\Debug\net5.0\EnumDefinition.csproj.CoreCompileInputs.cache
+D:\C# 101\Class\EnumDefinition\obj\Debug\net5.0\EnumDefinition.dll
+D:\C# 101\Class\EnumDefinition\obj\Debug\net5.0\ref\EnumDefinition.dll
+D:\C# 101\Class\EnumDefinition\obj\Debug\net5.0\EnumDefinition.pdb
+D:\C# 101\Class\EnumDefinition\obj\Debug\net5.0\EnumDefinition.genruntimeconfig.cache
