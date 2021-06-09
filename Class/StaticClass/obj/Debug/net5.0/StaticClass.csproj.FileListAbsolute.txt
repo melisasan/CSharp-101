@@ -1,0 +1,16 @@
+D:\C# 101\Class\StaticClass\bin\Debug\net5.0\StaticClass.exe
+D:\C# 101\Class\StaticClass\bin\Debug\net5.0\StaticClass.deps.json
+D:\C# 101\Class\StaticClass\bin\Debug\net5.0\StaticClass.runtimeconfig.json
+D:\C# 101\Class\StaticClass\bin\Debug\net5.0\StaticClass.runtimeconfig.dev.json
+D:\C# 101\Class\StaticClass\bin\Debug\net5.0\StaticClass.dll
+D:\C# 101\Class\StaticClass\bin\Debug\net5.0\ref\StaticClass.dll
+D:\C# 101\Class\StaticClass\bin\Debug\net5.0\StaticClass.pdb
+D:\C# 101\Class\StaticClass\obj\Debug\net5.0\StaticClass.csproj.AssemblyReference.cache
+D:\C# 101\Class\StaticClass\obj\Debug\net5.0\StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Class\StaticClass\obj\Debug\net5.0\StaticClass.AssemblyInfoInputs.cache
+D:\C# 101\Class\StaticClass\obj\Debug\net5.0\StaticClass.AssemblyInfo.cs
+D:\C# 101\Class\StaticClass\obj\Debug\net5.0\StaticClass.csproj.CoreCompileInputs.cache
+D:\C# 101\Class\StaticClass\obj\Debug\net5.0\StaticClass.dll
+D:\C# 101\Class\StaticClass\obj\Debug\net5.0\ref\StaticClass.dll
+D:\C# 101\Class\StaticClass\obj\Debug\net5.0\StaticClass.pdb
+D:\C# 101\Class\StaticClass\obj\Debug\net5.0\StaticClass.genruntimeconfig.cache
