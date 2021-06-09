@@ -1,0 +1,16 @@
+D:\C# 101\Methods\RecursiveExtension\bin\Debug\net5.0\RecursiveExtension.exe
+D:\C# 101\Methods\RecursiveExtension\bin\Debug\net5.0\RecursiveExtension.deps.json
+D:\C# 101\Methods\RecursiveExtension\bin\Debug\net5.0\RecursiveExtension.runtimeconfig.json
+D:\C# 101\Methods\RecursiveExtension\bin\Debug\net5.0\RecursiveExtension.runtimeconfig.dev.json
+D:\C# 101\Methods\RecursiveExtension\bin\Debug\net5.0\RecursiveExtension.dll
+D:\C# 101\Methods\RecursiveExtension\bin\Debug\net5.0\ref\RecursiveExtension.dll
+D:\C# 101\Methods\RecursiveExtension\bin\Debug\net5.0\RecursiveExtension.pdb
+D:\C# 101\Methods\RecursiveExtension\obj\Debug\net5.0\RecursiveExtension.csproj.AssemblyReference.cache
+D:\C# 101\Methods\RecursiveExtension\obj\Debug\net5.0\RecursiveExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Methods\RecursiveExtension\obj\Debug\net5.0\RecursiveExtension.AssemblyInfoInputs.cache
+D:\C# 101\Methods\RecursiveExtension\obj\Debug\net5.0\RecursiveExtension.AssemblyInfo.cs
+D:\C# 101\Methods\RecursiveExtension\obj\Debug\net5.0\RecursiveExtension.csproj.CoreCompileInputs.cache
+D:\C# 101\Methods\RecursiveExtension\obj\Debug\net5.0\RecursiveExtension.dll
+D:\C# 101\Methods\RecursiveExtension\obj\Debug\net5.0\ref\RecursiveExtension.dll
+D:\C# 101\Methods\RecursiveExtension\obj\Debug\net5.0\RecursiveExtension.pdb
+D:\C# 101\Methods\RecursiveExtension\obj\Debug\net5.0\RecursiveExtension.genruntimeconfig.cache
