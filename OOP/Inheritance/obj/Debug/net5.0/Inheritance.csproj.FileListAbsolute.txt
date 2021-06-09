@@ -1,0 +1,16 @@
+D:\C# 101\OOP\Inheritance\bin\Debug\net5.0\Inheritance.exe
+D:\C# 101\OOP\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+D:\C# 101\OOP\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+D:\C# 101\OOP\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+D:\C# 101\OOP\Inheritance\bin\Debug\net5.0\Inheritance.dll
+D:\C# 101\OOP\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+D:\C# 101\OOP\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+D:\C# 101\OOP\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+D:\C# 101\OOP\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\OOP\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+D:\C# 101\OOP\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+D:\C# 101\OOP\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\C# 101\OOP\Inheritance\obj\Debug\net5.0\Inheritance.dll
+D:\C# 101\OOP\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+D:\C# 101\OOP\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+D:\C# 101\OOP\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
