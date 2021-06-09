@@ -1,0 +1,16 @@
+D:\C# 101\Arrays\Tanımlama\bin\Debug\net5.0\Tanımlama.exe
+D:\C# 101\Arrays\Tanımlama\bin\Debug\net5.0\Tanımlama.deps.json
+D:\C# 101\Arrays\Tanımlama\bin\Debug\net5.0\Tanımlama.runtimeconfig.json
+D:\C# 101\Arrays\Tanımlama\bin\Debug\net5.0\Tanımlama.runtimeconfig.dev.json
+D:\C# 101\Arrays\Tanımlama\bin\Debug\net5.0\Tanımlama.dll
+D:\C# 101\Arrays\Tanımlama\bin\Debug\net5.0\ref\Tanımlama.dll
+D:\C# 101\Arrays\Tanımlama\bin\Debug\net5.0\Tanımlama.pdb
+D:\C# 101\Arrays\Tanımlama\obj\Debug\net5.0\Tanımlama.csproj.AssemblyReference.cache
+D:\C# 101\Arrays\Tanımlama\obj\Debug\net5.0\Tanımlama.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Arrays\Tanımlama\obj\Debug\net5.0\Tanımlama.AssemblyInfoInputs.cache
+D:\C# 101\Arrays\Tanımlama\obj\Debug\net5.0\Tanımlama.AssemblyInfo.cs
+D:\C# 101\Arrays\Tanımlama\obj\Debug\net5.0\Tanımlama.csproj.CoreCompileInputs.cache
+D:\C# 101\Arrays\Tanımlama\obj\Debug\net5.0\Tanımlama.dll
+D:\C# 101\Arrays\Tanımlama\obj\Debug\net5.0\ref\Tanımlama.dll
+D:\C# 101\Arrays\Tanımlama\obj\Debug\net5.0\Tanımlama.pdb
+D:\C# 101\Arrays\Tanımlama\obj\Debug\net5.0\Tanımlama.genruntimeconfig.cache
