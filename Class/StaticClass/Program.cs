@@ -9,7 +9,7 @@ namespace StaticClass
             Console.WriteLine("Çalışan sayısı: {0} ", Calisan.CalisanSayisi);
             //Çalışan sınıfından ilk nesne türetildiğinde ilk olarak static constructor çalışır 
             //fakat bir üstteki kodda static constructor çalıştığı için nesne üretilince tekrar 
-            //çalışmasına gerek kalmadı
+            //çalışmasına gerek kalmadı.
             Calisan calisan = new Calisan("Melis","Yılmaz","IK");
             Console.WriteLine("Çalışan sayısı: {0} ", Calisan.CalisanSayisi);
 
@@ -22,7 +22,7 @@ namespace StaticClass
 
     class Calisan
     {
-        //bu property'e sınıf aracılığıyla erişilir
+        //bu property'e sınıf aracılığıyla erişilir.
         private static int calisanSayisi;
         private string isim ;
         private string soyisim;
@@ -43,7 +43,7 @@ namespace StaticClass
         }
     }
 
-    //static classlardaki tüm elemanlar static olmak zorundadır
+    //static classlardaki tüm elemanlar static olmak zorunda.
     static class Islemler
     {
         public static long Topla(int sayi1,int sayi2)
