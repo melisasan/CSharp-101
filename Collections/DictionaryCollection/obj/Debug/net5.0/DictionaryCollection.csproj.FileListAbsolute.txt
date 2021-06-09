@@ -1,0 +1,16 @@
+D:\C# 101\Collections\DictionaryCollection\bin\Debug\net5.0\DictionaryCollection.exe
+D:\C# 101\Collections\DictionaryCollection\bin\Debug\net5.0\DictionaryCollection.deps.json
+D:\C# 101\Collections\DictionaryCollection\bin\Debug\net5.0\DictionaryCollection.runtimeconfig.json
+D:\C# 101\Collections\DictionaryCollection\bin\Debug\net5.0\DictionaryCollection.runtimeconfig.dev.json
+D:\C# 101\Collections\DictionaryCollection\bin\Debug\net5.0\DictionaryCollection.dll
+D:\C# 101\Collections\DictionaryCollection\bin\Debug\net5.0\ref\DictionaryCollection.dll
+D:\C# 101\Collections\DictionaryCollection\bin\Debug\net5.0\DictionaryCollection.pdb
+D:\C# 101\Collections\DictionaryCollection\obj\Debug\net5.0\DictionaryCollection.csproj.AssemblyReference.cache
+D:\C# 101\Collections\DictionaryCollection\obj\Debug\net5.0\DictionaryCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\Collections\DictionaryCollection\obj\Debug\net5.0\DictionaryCollection.AssemblyInfoInputs.cache
+D:\C# 101\Collections\DictionaryCollection\obj\Debug\net5.0\DictionaryCollection.AssemblyInfo.cs
+D:\C# 101\Collections\DictionaryCollection\obj\Debug\net5.0\DictionaryCollection.csproj.CoreCompileInputs.cache
+D:\C# 101\Collections\DictionaryCollection\obj\Debug\net5.0\DictionaryCollection.dll
+D:\C# 101\Collections\DictionaryCollection\obj\Debug\net5.0\ref\DictionaryCollection.dll
+D:\C# 101\Collections\DictionaryCollection\obj\Debug\net5.0\DictionaryCollection.pdb
+D:\C# 101\Collections\DictionaryCollection\obj\Debug\net5.0\DictionaryCollection.genruntimeconfig.cache
