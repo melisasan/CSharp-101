@@ -16,6 +16,12 @@ namespace Inheritance
         {
             Console.WriteLine("Canlılar boşaltım yapar");
         }
+
+        //POLYMORPHISM
+        public virtual void UyaranlaraTepki()
+        {
+            Console.WriteLine("Canlılar uyaranlara tepki verir");
+        }
         
     }
 }
