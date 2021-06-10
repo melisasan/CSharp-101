@@ -1,0 +1,16 @@
+D:\C# 101\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.AssemblyReference.cache
+D:\C# 101\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# 101\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfoInputs.cache
+D:\C# 101\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfo.cs
+D:\C# 101\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.CoreCompileInputs.cache
+D:\C# 101\OOP\AbstractClass\bin\Debug\net5.0\AbstractClass.exe
+D:\C# 101\OOP\AbstractClass\bin\Debug\net5.0\AbstractClass.deps.json
+D:\C# 101\OOP\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.json
+D:\C# 101\OOP\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.dev.json
+D:\C# 101\OOP\AbstractClass\bin\Debug\net5.0\AbstractClass.dll
+D:\C# 101\OOP\AbstractClass\bin\Debug\net5.0\ref\AbstractClass.dll
+D:\C# 101\OOP\AbstractClass\bin\Debug\net5.0\AbstractClass.pdb
+D:\C# 101\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.dll
+D:\C# 101\OOP\AbstractClass\obj\Debug\net5.0\ref\AbstractClass.dll
+D:\C# 101\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.pdb
+D:\C# 101\OOP\AbstractClass\obj\Debug\net5.0\AbstractClass.genruntimeconfig.cache
