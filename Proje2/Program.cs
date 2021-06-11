@@ -7,9 +7,10 @@ namespace Proje2
         public static int select = 0;
         static void Main(string[] args)
         {
-            
+            while(select != 5)
+            {
             Choice();
-            if(select < 0 && select > 5)
+            if(select < 0 || select > 5)
             {
                 Console.WriteLine("1 ila 4 arasında tercih yapınız. Çıkmak için 5 e basınız.");
                 select = int.Parse(Console.ReadLine());
@@ -17,10 +18,10 @@ namespace Proje2
             switch(select)
             {
                 case 1 :
-                    KartEkle();
+                    BoardListele();
                     break;
                 case 2:
-                    BoardListele();
+                     KartEkle();
                     break;
                 case 3: 
                     KartSil();
@@ -33,7 +34,7 @@ namespace Proje2
             }
 
         }
-    
+    }
     static void Choice()
     {
        Console.WriteLine("Lütfen yapmak istediğiniz işlemi seçiniz :) \n*******************************************\n(1) Board Listelemek\n(2) Board'a Kart Eklemek\n(3) Board'dan Kart Silmek\n(4) Kart Taşımak");
@@ -68,11 +69,11 @@ namespace Proje2
             }
             if (temp == 0)
             {
-                Console.WriteLine("Hatalı giriş yaptınız! Girilen ID'ye ait bir kullanıcı bulunamadı.");
+                Console.WriteLine("Hatalı giriş. Girilen ID'ye ait bir kullanıcı bulunamadı.");
             }
             else
             {
-                Console.WriteLine("KART BAŞARILI BİR ŞEKİLDE EKLENDİ");
+                Console.WriteLine("Kart ekleme gerçekleştirildi.");
             }
         }
 
@@ -90,7 +91,7 @@ namespace Proje2
                 {
                     temp++;
                     Board.ToDo.Remove(item);
-                    Console.WriteLine("SİLME İŞLEMİ GERÇEKLEŞTİRİLDİ.");
+                    Console.WriteLine("Silme işlemi gerçekleştirildi.");
                     break;
                 }
             }
@@ -100,7 +101,7 @@ namespace Proje2
                 {
                     temp++;
                     Board.InProgress.Remove(item);
-                    Console.WriteLine("SİLME İŞLEMİ GERÇEKLEŞTİRİLDİ.");
+                    Console.WriteLine("Silme işlemi gerçekleştirildi.");
                     break;
                 }
             }
@@ -110,7 +111,7 @@ namespace Proje2
                 {
                     temp++;
                     Board.Done.Remove(item);
-                    Console.WriteLine("SİLME İŞLEMİ GERÇEKLEŞTİRİLDİ.");
+                    Console.WriteLine("Silme işlemi gerçekleştirildi.");
                     break;
                 }
             }
